@@ -1,5 +1,5 @@
 # Powershell-Cibersecurity
-primer repositorio de Programación para Ciberseguridad
+By LicFressa
 
 Este repositorio contiene una colección de tres scripts en PowerShell desarrollados como ejercicios prácticos de auditoría básica en sistemas Windows. Los scripts permiten realizar análisis iniciales de archivos, usuarios locales y servicios activos, constituyendo una introducción al uso de PowerShell en tareas de ciberseguridad defensiva y administración de sistemas.
 
