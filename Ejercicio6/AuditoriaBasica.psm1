@@ -1,4 +1,6 @@
-﻿$moduloPath = "C:\Program Files\WindowsPowerShell\Modules\AuditoriaBasica" 
+﻿##Editado por: LicFressa 
+# Fecha: 2025-08-20
+$moduloPath = "C:\Program Files\WindowsPowerShell\Modules\AuditoriaBasica" 
 New-Item -Path $moduloPath -ItemType Directory 
 Set-Location $moduloPath 
 
@@ -8,7 +10,7 @@ function Obtener-UsuariosInactivos {
     .SYNOPSYS
     Obtiene usuarios locales
     .DESCRIPTION
-    Esta funcion busca cuentas loscales habilitadas que no tienen fecha de  último inicio de sesión
+    Esta funcion busca cuentas locales habilitadas que no tienen fecha de  último inicio de sesión
     .EXAMPLE
     Obtener-UsuariosInactivos
     .NOTES
