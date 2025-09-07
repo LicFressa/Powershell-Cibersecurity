@@ -1,0 +1,39 @@
+2025-09-07 11:51:38,877 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 11:51:54,286 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 11:54:21,240 - ERROR - Error 401: API key fallida.
+2025-09-07 11:54:54,351 - INFO - Consulta exitosa para ejemplo@gmail.com. Brechas encontradas: 80
+2025-09-07 11:54:54,447 - ERROR - Error al consultar detalles de la brecha Adobe: I/O operation on closed file.
+2025-09-07 11:55:04,541 - ERROR - Error al consultar detalles de la brecha 000webhost: I/O operation on closed file.
+2025-09-07 11:55:14,638 - ERROR - Error al consultar detalles de la brecha Lifeboat: I/O operation on closed file.
+2025-09-07 12:13:31,768 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 12:14:17,353 - INFO - Consulta exitosa para ejemplo@gmail.com. Brechas encontradas: 80
+2025-09-07 12:14:17,475 - ERROR - Error al consultar detalles de la brecha Adobe: I/O operation on closed file.
+2025-09-07 12:14:27,574 - ERROR - Error al consultar detalles de la brecha 000webhost: I/O operation on closed file.
+2025-09-07 12:14:37,676 - ERROR - Error al consultar detalles de la brecha Lifeboat: I/O operation on closed file.
+2025-09-07 13:35:49,720 - INFO - Consulta exitosa para ejemplo@gmail.com. Brechas encontradas: 80
+2025-09-07 13:35:49,809 - ERROR - Error al consultar detalles de la brecha Adobe: I/O operation on closed file.
+2025-09-07 13:35:59,909 - ERROR - Error al consultar detalles de la brecha 000webhost: I/O operation on closed file.
+2025-09-07 13:36:09,997 - ERROR - Error al consultar detalles de la brecha Lifeboat: I/O operation on closed file.
+2025-09-07 13:45:24,319 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 13:45:40,011 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 13:45:53,130 - INFO - Consulta exitosa para ejemplo@gmail.com. Brechas encontradas: 80
+2025-09-07 15:03:16,098 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:05:42,753 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:05:45,406 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:09:42,343 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:10:12,091 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:17:59,839 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:22:14,849 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:23:15,739 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:24:21,080 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:26:29,848 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:31:01,387 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:31:35,896 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:31:37,429 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:32:08,803 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:34:29,734 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:35:26,385 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:38:39,962 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:39:18,629 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:39:28,306 - ERROR - Número incorrecto de argumentos proporcionados.
+2025-09-07 15:39:59,485 - INFO - Consulta exitosa para ejemplo@gmail.com. Brechas encontradas: 80
