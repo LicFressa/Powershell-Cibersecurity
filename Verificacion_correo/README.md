@@ -8,15 +8,15 @@ Este script permite verificar si una cuenta de correo electrónico ha sido compr
 - Conexión a internet
 
 ## Instalación
-```bash
-pip install -r requirements.txt```
+'''bash
+pip install -r requirements.txt'''
 
 ## Uso
 
 Ejecuta el script desde la terminal, indicando el correo a verificar y opcionalmente el nombre del archivo CSV de salida:
 
-```bash
-python verificar_correo.py correo@example.com -o salida.csv```
+'''bash
+python verificar_correo.py correo@example.com -o salida.csv'''
 
 ## Archivos generados
 
@@ -47,3 +47,4 @@ Este proyecto se distribuye con fines educativos. El uso de la API de Have I Bee
 
 ## Contacto
 Para dudas técnicas o sugerencias, puedes dejar comentarios en el repositorio de GitHub.
+
